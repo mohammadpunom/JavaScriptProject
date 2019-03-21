@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+button
+{
+  font-size: 2rem;
+}
+
+li
+{
+  font-size: 3rem;
+}
+.huge
+{
+    font-size: 5rem;
+    font-weight: bold;
+    font-style: italic;
+}
+.diceGame
+{
+  shadow: 100px;
+}
+.cat {
+background-image: url(./pinkcat.jpg);
+background-size: cover;
+height: 180px;
+width: 170px;
+}
